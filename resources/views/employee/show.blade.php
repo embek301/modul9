@@ -18,7 +18,7 @@
                         <label for="lastName" class="form-label">Last Name</label>
                         <h5>{{ $employee->lastname }}</h5>
                     </div>
-                    <div class="col-md-4 mb-3">
+                    <div class="col-md-4 mb-3"> 
                         <label for="age" class="form-label">Age</label>
                         <h5>{{ $employee->age }}</h5>
                     </div>

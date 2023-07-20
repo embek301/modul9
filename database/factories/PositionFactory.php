@@ -24,5 +24,4 @@ class PositionFactory extends Factory
         ];
     }
 
-
 }
